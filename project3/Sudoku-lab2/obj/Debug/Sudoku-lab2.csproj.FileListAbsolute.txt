@@ -1,0 +1,7 @@
+C:\Users\willi\Documents\CSCI641-Advanced-Programming-Skill\project3\Sudoku-lab2\bin\Debug\Sudoku-lab2.exe.config
+C:\Users\willi\Documents\CSCI641-Advanced-Programming-Skill\project3\Sudoku-lab2\bin\Debug\Sudoku-lab2.exe
+C:\Users\willi\Documents\CSCI641-Advanced-Programming-Skill\project3\Sudoku-lab2\bin\Debug\Sudoku-lab2.pdb
+C:\Users\willi\Documents\CSCI641-Advanced-Programming-Skill\project3\Sudoku-lab2\obj\Debug\Sudoku-lab2.csprojAssemblyReference.cache
+C:\Users\willi\Documents\CSCI641-Advanced-Programming-Skill\project3\Sudoku-lab2\obj\Debug\Sudoku-lab2.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\CSCI641-Advanced-Programming-Skill\project3\Sudoku-lab2\obj\Debug\Sudoku-lab2.exe
+C:\Users\willi\Documents\CSCI641-Advanced-Programming-Skill\project3\Sudoku-lab2\obj\Debug\Sudoku-lab2.pdb
